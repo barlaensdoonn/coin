@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-# coins - interact with APIs to get current balances and prices
+# coins - interact with APIs to get current prices
 # 12/13/17
 # updated 12/13/17
 
